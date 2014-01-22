@@ -1,0 +1,3 @@
+[submodule "oreilly_source"]
+	path = oreilly_source
+	url = git@github.com:oreillymedia/doing_data_science.git
